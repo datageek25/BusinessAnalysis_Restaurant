@@ -10,3 +10,9 @@ We have to help out a small restaurant (Goli) owner, Mr. Goli, by enabling the o
     a. By what they order 
     b. By how much they spend 
  7. What are the most loved dishes in the market ​(5 points) 
+ 
+ Mr. Goli has collected 3 sets of data 
+ 1. Market Pricing - This dataset has information on the pricing of dishes of Goli and itscompetition. It also includes which dishes are being loved by the customers at a particular restaurant 
+ 2. Customer Bill Detail - This dataset has the information of the order details of Goli 
+ 3. Customer Order Item Details - This dataset contains aggregated information on what  was ordered by the customer of Goli. 
+ 
