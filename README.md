@@ -1,4 +1,4 @@
-# Restaurant_BusinessAnalysis
+# BusinessAnalysis_Restaurant
 Strategical Analysis for a restaurant given the data like Market Pricing of Dishes, Customer Bills.
 We have to help out a small restaurant (Goli) owner, Mr. Goli, by enabling the owner with strategies by analysing the data. The type of insights Mr. Goli is looking out for lies in the following bucket 
  1. Market Competitive Price - Mr. Goli wants his pricing to be competitive to the market 
